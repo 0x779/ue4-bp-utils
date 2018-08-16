@@ -1,2 +1,2 @@
-# ue4-bp-utils
-Blueprint utilities for Unreal Engine 4
+# Unreal Engine 4 Blueprint utilities
+
